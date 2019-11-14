@@ -1,0 +1,1 @@
+# Synapse-Analytics-Azure-DW-Automation-one-click-template-using-just-ADF-v2
