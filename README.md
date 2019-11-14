@@ -1,8 +1,8 @@
 ## Synapse-Analytics-Azure-DW-Automation-one-click-template-using-just-ADF-v2
 
-If you are using Azure DW today , you may be using combination multiple tool like Azure function\logic apps , ADF , Rest API call to automate the Azure DW so far .
+If you are using Azure DW today , you may be using combination of multiple services like Azure function\logic apps , ADF , Rest API call to automate the Azure DW  .
 
-With the help of new authentication method “MSI” in ADF,  you can automate this with simple solution .
+With the help of new authentication method “MSI” in ADF,  you can automate this with just ADF v2.
 
 This Data factory pipeline template is best way to autoimate the Azure DW for below reason:
 
